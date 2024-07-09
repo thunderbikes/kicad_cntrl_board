@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TLX9906_TPL_F")(type "KiCad")(uri "${KIPRJMOD}/lib/TLX9906_TPL_F/TLX9906_TPL_F.kicad_sym")(options "")(descr ""))
+  (lib (name "LM5085MY")(type "KiCad")(uri "${KIPRJMOD}/lib/buck_ctrl/LM5085MY.kicad_sym")(options "")(descr ""))
+)

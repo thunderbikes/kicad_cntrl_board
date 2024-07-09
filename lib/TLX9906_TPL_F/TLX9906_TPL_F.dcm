@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TLX9906_TPL,F
+D Photodiode Output Optocouplers PV Coupler Automotive; AEC-Q101
+K
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=55590&prodName=TLX9906
+$ENDCMP
+#
+#End Doc Library
