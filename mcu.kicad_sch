@@ -6,8 +6,8 @@
 	(paper "USLetter")
 	(title_block
 		(title "Relay Control Board")
-		(date "2024-07-01")
-		(rev "PA")
+		(date "2024-07-09")
+		(rev "R1")
 		(company "UBC ThunderBikes")
 		(comment 1 "Peter Woolsey")
 	)
@@ -5794,7 +5794,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C2682775"
 			(at 43.18 77.47 90)
 			(effects
 				(font
